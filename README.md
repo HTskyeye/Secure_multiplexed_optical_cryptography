@@ -8,8 +8,6 @@ We introduce a defense-enhanced architecture that integrates a free-space optica
 - Multi-channel encryption
 - Blank channel integration
 
-![hhhhh](.\images\Fig1.png)
-
 ## Usage
 
 1. Encryption and decryption process
